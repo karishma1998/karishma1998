@@ -10,7 +10,7 @@
 <h2 dir="auto"><img src="/Git Images/Bulb icon.gif" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
 <br>
 <ul>
-  <li>🐱‍🏍I like learning new things.</li><br>
+  <li>🐱‍🏍I love learning new skills, random facts, and furthering my own knowledge.</li><br>
   <li>🌱I am currenty learning Data Analytics.</li><br>
   <li>🤖Creating new things is my hobby.
 </ul>
