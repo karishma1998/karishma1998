@@ -35,8 +35,8 @@
 <h2 dir="auto"><img src="/Git Images/Bulb icon.gif" width="40" data-animated-image="" ></a> <strong>Important Links:</strong></h2>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-arya-0607b1148/"><img src="/Git Images/linkedin logo.png" width=75 height=75></a>&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/AdityaArya?hr_r=1"><img src="/Git Images/hackerrank logo.png" width=75 height=75></a>
+  <a href="https://www.linkedin.com/in/karishma-varshney-0503b2148/"><img src="/Git Images/linkedin logo.png" width=75 height=75></a>&nbsp&nbsp&nbsp
+  <a href="https://www.hackerrank.com/varshneykarishm2"><img src="/Git Images/hackerrank logo.png" width=75 height=75></a>
 </p>
 <br>
 
@@ -44,6 +44,5 @@
 <br>
 <br>
   <p align="center">
-  Contact: +91-9521416528<br>
-  Email: swapnil240077@gmail.com
+  Email: varshneykarishma85@gmail.com
   </p>
