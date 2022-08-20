@@ -2,7 +2,7 @@
 <p align = "center"><img src="/Git Images/developer-dribbble.gif" width = "400" height = "300"></p>
 
 <!--Hi-->
-<h1 align = "center">Hi <img src="/Git Images/391906110_WAVING_HAND_400px.gif" width = "75" height = "75"> I am Aditya</h1>
+<h1 align = "center">Hi <img src="/Git Images/391906110_WAVING_HAND_400px.gif" width = "75" height = "75"> I am Karishma Varshney</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 <br>
 
