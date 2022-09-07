@@ -1,5 +1,5 @@
 <!--Top Picture-->
-<p align = "center"><img src="/Git Images/mast_image.gif" width = "400" height = "300"></p>
+<p align = "center"><img src="/https://github.com/karishma1998/karishma1998/blob/main/Git%20Images/coder_image.gif" width = "400" height = "300"></p>
 
 <!--Hi-->
 <h1 align = "center">Hi <img src="/Git Images/391906110_WAVING_HAND_400px.gif" width = "75" height = "75"> I am Karishma Varshney</h1>
