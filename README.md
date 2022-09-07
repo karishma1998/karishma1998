@@ -2,7 +2,7 @@
 <p align = "center"><img src="/Git Images/mast_image.gif" width = "400" height = "300"></p>
 
 <!--Hi-->
-<h1 align = "center">Hi <img src="/Git Images/391906110_WAVING_HAND_400px.gif" width = "25" height = "25"> I am Karishma Varshney</h1>
+<h1 align = "center">Hi <img src="/Git Images/391906110_WAVING_HAND_400px.gif" width = "75" height = "75"> I am Karishma Varshney</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 <br>
 
@@ -13,7 +13,7 @@
   <li>🐱‍🏍I love learning new skills, random facts, and furthering my own knowledge.</li><br>
   <li>🌱I am currenty learning Data Analytics.</li><br>
   <li>🤖Creating new things is my hobby.</li><br>
-  <li> Contact me through <a href="https://www.linkedin.com/in/karishma-varshney-0503b2148/"><img src="/Git Images/linkedin logo.png" width=75 height=75></a>&nbsp&nbsp&nbsp
+  <li> Contact me through <a href="https://www.linkedin.com/in/karishma-varshney-0503b2148/"><img src="/Git Images/linkedin logo.png" width=25 height=25></a>&nbsp&nbsp&nbsp
 <br>
 
 <!--Tech ribbon-->
