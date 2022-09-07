@@ -12,7 +12,8 @@
 <ul>
   <li>🐱‍🏍I love learning new skills, random facts, and furthering my own knowledge.</li><br>
   <li>🌱I am currenty learning Data Analytics.</li><br>
-  <li>🤖Creating new things is my hobby.
+  <li>🤖Creating new things is my hobby.</li><br>
+  <li> Contact me through https://www.linkedin.com/in/karishma-varshney-0503b2148/.
 </ul>
 <br>
 
